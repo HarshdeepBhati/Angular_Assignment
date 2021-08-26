@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'assignment';
+  array = ['First Line','Second Line','Third Line','Fourth Line'];
+
 }
